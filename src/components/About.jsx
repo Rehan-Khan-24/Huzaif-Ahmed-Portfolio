@@ -5,5 +5,5 @@ export const about = {
     "I specialize in leveraging Generative AI tools to accelerate business growth and innovation.",
     "I provide expert freelance training services to help teams adopt Agile and AI seamlessly."
   ],
-  resume: "" // Optional: add link if you upload your resume
+
 };
